@@ -1,6 +1,6 @@
 myenv/
 db.sqlite3
 *.pyc
-migrations/
 *~
 /static
+__pycache__
